@@ -1,2 +1,2 @@
-# FrimpsHenry.github.io
+# my_website
 Beginning my website building journey
